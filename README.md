@@ -1,4 +1,4 @@
-# Dual_Axis_Solar_Tracker_Simulation
+# Dual-Axis Solar Tracker Circuit Diagram and Simulation
 Solar Tracker moves the solar panel in dual axis (left &amp; right, up &amp; down) and detects where the light/sun is coming from to convert light energy to electrical energy.
 
 Originally, this circuit diagram is just a single-axis solar tracker  but I modified some parts of the circuit if I will apply a 12V DC mtor and to also make it as a dual-axis solar tracker.
